@@ -12,14 +12,6 @@ http://109.230.199.73/209.dll
 http://109.230.199.73/209x64.exe
 http://109.230.199.73/k.dll
 http://109.230.199.73/k.exe
-http://127.0.0.1
-http://127.0.0.1.1
-http://127.0.0.1/vncstart?189DFF46BB384BF8691089DD70E9F95C
-http://127.0.0.1234
-http://127.0.0.1:6001/socket.io
-http://127.0.0.1:6001/socket.io/
-http://127.0.0.1:80
-http://127.0.0.1:8206/
 http://142.202.205.40/nssm-2.24.zip
 http://142.202.205.40/tor_with_ssh.zip
 http://14740-27223.bacloud.info/webmail/
@@ -44,9 +36,6 @@ http://185.99.2.115/images/control.png
 http://185.99.2.115/images/hold.png
 http://185.99.2.115/images/scroll.png
 http://188.241.120.42/wai.php
-http://192.168.0.43/
-http://192.168.100.247/
-http://192.168.100.247/AXIS_ACCC8ECFBF99
 http://194.5.249.13/p32.exe
 http://194.5.249.13/rundll32.dll
 http://194.5.249.13/service32.dll
